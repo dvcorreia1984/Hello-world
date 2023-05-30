@@ -26,11 +26,10 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="eatsleepcode.jpg" alt="logo" width="300"  height="auto" />
   <br/>
-
-  <h3><b>My new blog</b></h3>
+  
+  <h3><b>Victor Correia</b></h3>
 
 </div>
 
@@ -60,19 +59,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My new blog] <a name="about-project"></a>
+# 📖 [Hello World] <a name="about-project"></a>
 
-> This is my new project built with HTML, CSS and. 
+> This is my new project built with HTML and CSS. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 1- HTML
 2- CSS
-3- Liners
+3- Linters
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -87,24 +84,12 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - Added index.html file.
 - Added style.css file. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-> Comming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -118,16 +103,12 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone https://github.com/dvcorreia1984/my-new-blog.git
+  git clone https://github.com/dvcorreia1984/Hello-world.git
 ```
---->
 
-### Install
+### Installation
 
 Install this project with:
 
@@ -144,41 +125,22 @@ To run the project, execute the following command:
 
 Open index.html using live server extension
 
-### Run tests
+<!-- AUTHOR -->
 
-> Comming soon
-
-### Deployment
-
-> Comming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
+## 👥 Author <a name="authors"></a>
 
 👤 **Victor Correia**
 
 - GitHub: [@githubhandle](https://github.com/dvcorreia1984)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/dvcorreia)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] Add Header.
 - [ ] Add Footer.
 - [ ] Add Sidebar.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -188,26 +150,17 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project just give me a star ⭐.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank Microverse and my family. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
