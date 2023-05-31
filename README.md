@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="eatsleepcode.jpg" alt="logo" width="300"  height="auto" />
+   <img src="eatsleepcode.jpg" alt="logo" width="140"  height="auto" />
   <br/>
-  
-  <h3><b>Victor Correia</b></h3>
+
+  <h3><b>Hello Microverse Project</b></h3>
 
 </div>
 
@@ -30,9 +30,11 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello World] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-> This is my new project built with HTML and CSS. 
+> This is a HTML and CSS Project setup with Linters. 
+
+**[Hello Microverse]** is the first project that new Microverse students have to do. In order to do complete this project linters have to be setup, to automatically check that code complies with HTML and CSS standards. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,19 +44,31 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
+> This project has been built with the following components: 
+
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-    <li><a href="https://reactjs.org/">CSS</a></li>
-    <li><a href="https://reactjs.org/">Javascript</a></li>
+    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
+> This application has the following features: 
+
 - Added index.html file.
 - Added style.css file. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Comming soon!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -92,18 +106,29 @@ To run the project, execute the following command:
 
 Open index.html using live server extension
 
-## 👥 Author <a name="authors"></a>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+> This project was made by: 
 
 👤 **Victor Correia**
 
 - GitHub: [@githubhandle](https://github.com/dvcorreia1984)
+- Twitter: [@twitterhandle](https://twitter.com/dvcorreia1984)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/dvcorreia)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
 
 - [ ] Add Header.
 - [ ] Add Footer.
 - [ ] Add Sidebar.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -111,16 +136,49 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project just give me a star ⭐.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and my family. 
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank the follolowing: 
+
+- Microverse: [https://www.microverse.org/](Microverse)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/dvcorreia)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
